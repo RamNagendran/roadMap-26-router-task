@@ -1,22 +1,36 @@
+import Image1 from '../assets/image1.webp';
+import Image2 from '../assets/image2.webp';
+import Image3 from '../assets/image3.webp';
+import Image4 from '../assets/image4.jpg';
+import Image5 from '../assets/image5.webp';
+import Image6 from '../assets/image6.webp';
+import Image7 from '../assets/image7.jpg';
+import Image8 from '../assets/image8.webp';
+import Image9 from '../assets/image9.webp';
+import Image10 from '../assets/image10.webp';
+import Image11 from '../assets/image11.jpeg';
+import Image12 from '../assets/image12.webp';
+
+
 
 export const dataSet = {
     "TRENDING_ARTICLES": [
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs.png",
+            image: Image1,
             title: "How to Render an Array of Objects in React? [in 3 easy steps]",
             author: "Tarun Singh",
             date: "21 Mar, 2024",
             duration: "7 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js.png",
+            image: Image2,
             title: "Use ReactJS to Fetch and Display Data from API – 5 Simple Steps",
             author: "Tarun Singh",
             date: "21 Mar, 2024",
             duration: "5 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2023/06/feature-image-unique-project-ideas.jpg",
+            image: Image3,
             title: "Top 10 Unique Project Ideas for College Students",
             author: "Lukesh S",
             date: "21 Mar, 2024",
@@ -25,7 +39,7 @@ export const dataSet = {
     ],
     "AI&ML": [
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2024/03/Feature-2.png",
+            image: Image4,
             title: "The Influence of Chatbots on Customer Services: Benefits and Impact",
             author: "Meghana D",
             date: "27 Mar, 2024",
@@ -41,7 +55,7 @@ export const dataSet = {
     ],
     "BLOCKCHAIN": [
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2020/11/word-image-1-1.jpeg",
+            image: Image5,
             title: "A Guide To Learning Blockchain Technology From Scratch",
             author: "Lukesh S",
             date: "06 Oct, 2024",
@@ -78,14 +92,14 @@ export const dataSet = {
             duration: "10 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Top-10-Cloud-Computing-Jobs-without-Coding-1.png",
+            image: Image6,
             title: "Top 10 High Paying Cloud-Computing Jobs without Coding in 2024",
             author: "Isha Sharma",
             date: "22 Mar, 2024",
             duration: "6 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Astounding-Websites-To-Learn-Cloud-Computing.png",
+            image: Image7,
             title: "9 Astounding Websites To Learn Cloud Computing in 2024",
             author: "Lukesh S",
             date: "21 Mar, 2024",
@@ -101,14 +115,14 @@ export const dataSet = {
             duration: "4 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png",
+            image: Image8,
             title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
             author: "Tushar Vinocha",
             date: "04 Oct, 2024",
             duration: "5 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1.png",
+            image: Image9,
             title: "8 Different Types of Cybersecurity and Threats Involved",
             author: "Tushar Vinocha",
             date: "08 Sep, 2024",
@@ -140,7 +154,7 @@ export const dataSet = {
     ],
     "FULLSTACK_DEVELOPMENT": [
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+            image: Image10,
             title: "Best Full-Stack Development Project Ideas in 2024",
             author: "Jaishree Tomar",
             date: "26 Mar, 2024",
@@ -154,14 +168,14 @@ export const dataSet = {
             duration: "5 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png",
+            image: Image11,
             title: "Hot Topics That You Need To Know In Full Stack Developer Syllabus | 2024 [U...",
             author: "Tushar Vinocha",
             date: "08 Sep, 2024",
             duration: "4 Min Read"
         },
         {
-            image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
+            image: Image12,
             title: "Best Web Development Roadmap for Beginners 2024",
             author: "Meghana D",
             date: "25 Mar, 2024",
